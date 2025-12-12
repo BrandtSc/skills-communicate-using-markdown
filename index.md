@@ -6,3 +6,5 @@
 ###### H6 Header
 
 ## Commit Msg
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
